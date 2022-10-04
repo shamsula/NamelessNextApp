@@ -1,0 +1,7 @@
+https://codepen.io/milanraring/pen/KKwRBQp power button
+
+// ============== Toggles ==================
+https://codepen.io/aaroniker/pen/wvvWNJy
+
+
+https://stackblitz.com/edit/swiper-demo-7-custom-pagination?file=index.html
